@@ -1,5 +1,8 @@
 ## Hi there 👋
+I enjoy coding many things in many different languages.
 
+If you find something useful and want to send a thank you
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/bencegellef)]
 <!--
 **blackout358/blackout358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
